@@ -13,3 +13,6 @@ Use Python command 'bin' for this
 >>> bin(42)[2:]
 '101010'
 ```
+
+## Flag
+> picoCTF{101010}
