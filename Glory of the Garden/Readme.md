@@ -21,3 +21,6 @@ $ hexdump -C garden.jpg
 00230598
 
 ```
+
+## Flag
+> picoCTF{more_than_m33ts_the_3y31e0af5C7}
