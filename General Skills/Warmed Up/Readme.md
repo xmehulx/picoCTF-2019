@@ -13,3 +13,6 @@ This can be easily done in python (or even mentally).
 >>> int('3d', 16)
 61
 ```
+
+# Flag
+> picoCTF{61}
