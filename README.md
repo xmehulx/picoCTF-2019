@@ -8,7 +8,7 @@ Writeups of the following challenges of picoCTF 2019.
 | [Insp3ct0r](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/Insp3ct0r)| Web Exploitation | 50       |
 | [Lets Warm Up ](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Lets%20Warm%20Up)| General Skills   | 50       |     
 | [The Numbers](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/The%20Numbers)| Cryptography     | 50       |
-| Warmed Up           | General Skills      | 50  |
+| [Warmed Up](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Warmed%20Up)           | General Skills      | 50  |
 | handy-shellcode     | Binary Exploitation | 50  |
 | practice-run-1      | Binary Exploitation | 50  |
 | unzip               | Forensics           | 50  |
