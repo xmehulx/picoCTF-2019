@@ -11,13 +11,13 @@ Writeups of the following challenges of picoCTF 2019.
 | [Warmed Up](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Warmed%20Up)           | General Skills      | 50  |
 | [handy-shellcode](https://github.com/xmehulx/picoCTF-2019/tree/master/Binary%20Exploitation/handy-shellcode)     | Binary Exploitation | 50  |
 | [practice-run-1](https://github.com/xmehulx/picoCTF-2019/tree/master/Binary%20Exploitation/practice-run-1)      | Binary Exploitation | 50  |
-| unzip               | Forensics           | 50  |
-| vault-door-training | Reverse Engineering | 50  |
-| 13                  | Cryptography        | 100 |
-|Bases                | General Skills      | 100 |
-|Easy1                | Cryptography        | 100 |
-|First Grep           | General Skills      | 100 |
-|OverFlow0            | Binary Exploitation | 100 |
+| [unzip](https://github.com/xmehulx/picoCTF-2019/tree/master/Forensics/unzip)               | Forensics           | 50  |
+| [vault-door-training](https://github.com/xmehulx/picoCTF-2019/tree/master/Reverse%20Engineering/vault-door-training) | Reverse Engineering | 50  |
+| [13](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/13)                  | Cryptography        | 100 |
+|[Bases](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Bases)                | General Skills      | 100 |
+|[Easy1](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/Easy1)                | Cryptography        | 100 |
+|[First Grep](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/First%20Grep)           | General Skills      | 100 |
+|[OverFlow0](https://github.com/xmehulx/picoCTF-2019/tree/master/Binary%20Exploitation/OverFlow%200)            | Binary Exploitation | 100 |
 |Resources            | General Skills      | 100 |
 |caesar               | Cryptography        | 100 |
 |dont-use-client-side | Web Exploitation    | 100 |
