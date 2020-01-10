@@ -13,7 +13,7 @@ As it mentions _not_ to run the file, we can deduce that it is an executable fil
 ```console
 r00t@linux:~$ file strings
 strings: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c9fbfa12e19efdabab88839c5e8b931b5e62c503, not stripped
-root@linux:~$ cat strings | strings | grep picoCTF
+r00t@linux:~$ cat strings | strings | grep picoCTF
 picoCTF{5tRIng5_1T_d5b86184}
 ```
 
