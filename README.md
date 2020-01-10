@@ -18,9 +18,9 @@ Writeups of the following challenges of picoCTF 2019.
 |[Easy1](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/Easy1)                | Cryptography        | 100 |
 |[First Grep](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/First%20Grep)           | General Skills      | 100 |
 |[OverFlow0](https://github.com/xmehulx/picoCTF-2019/tree/master/Binary%20Exploitation/OverFlow%200)            | Binary Exploitation | 100 |
-|Resources            | General Skills      | 100 |
-|caesar               | Cryptography        | 100 |
-|dont-use-client-side | Web Exploitation    | 100 |
+|[Resources](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Resources)            | General Skills      | 100 |
+|[caesar](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/caesar)               | Cryptography        | 100 |
+|[dont-use-client-side](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/dont-use-client-side) | Web Exploitation    | 100 |
 |logon                | Web Exploitation    | 100 |
 |strings it           | General Skills      | 100 |
 |vault-door-1         | Reverse Engineering | 100 |
