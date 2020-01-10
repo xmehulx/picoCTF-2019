@@ -9,9 +9,10 @@ Can you unzip this [file](https://2019shell1.picoctf.com/static/37762a7e5774d7d6
 
 # Solution
 Unzip it using the ```unzip``` command
-```bash
-$ unzip flag.zip
+```console
+r00t@linux:~$ unzip flag.zip
+picoCTF{unz1pp1ng_1s_3a5y}
 ```
 
-# Solution
+# Flag
 > picoCTF{unz1pp1ng_1s_3a5y}
