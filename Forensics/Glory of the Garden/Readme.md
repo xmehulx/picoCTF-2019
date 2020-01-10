@@ -9,8 +9,8 @@ This [garden](https://2019shell1.picoctf.com/static/86137520022d967547d5a2c99f42
 
 ## Solution
 Opening the photo gives nothing but on examining the file contents using ```hexdump``` we get
-```bash
-$ hexdump -C garden.jpg
+```console
+r00t@linux:~$ hexdump -C garden.jpg
 ...
 ...
 00230550  a2 bb bd ac 96 87 98 e4  d3 b2 e8 7f ff d9 48 65  |..............He|
