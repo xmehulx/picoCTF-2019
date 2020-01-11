@@ -21,11 +21,11 @@ Writeups of the following challenges of picoCTF 2019.
 |[Resources](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/Resources)            | General Skills      | 100 |
 |[caesar](https://github.com/xmehulx/picoCTF-2019/tree/master/Cryptography/caesar)               | Cryptography        | 100 |
 |[dont-use-client-side](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/dont-use-client-side) | Web Exploitation    | 100 |
-|logon                | Web Exploitation    | 100 |
-|strings it           | General Skills      | 100 |
-|vault-door-1         | Reverse Engineering | 100 |
-|what's a net cat?    | General Skills      | 100 |
-|where are the robots | Web Exploitation    | 100 |
+|[logon](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/logon)                | Web Exploitation    | 100 |
+|[strings it](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/strings%20it)           | General Skills      | 100 |
+|[vault-door-1](https://github.com/xmehulx/picoCTF-2019/tree/master/Reverse%20Engineering/vault-door-1)         | Reverse Engineering | 100 |
+|[what's a net cat?](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/what's%20a%20net%20cat%3F)    | General Skills      | 100 |
+|[where are the robots](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/where%20are%20the%20robots) | Web Exploitation    | 100 |
 |OverFlow 1           | Binary Exploitation | 150 |
 |So Meta              | Forensics           | 150 |
 |What Lies Within     | Forensics           | 150 |
