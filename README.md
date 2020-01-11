@@ -26,8 +26,8 @@ Writeups of the following challenges of picoCTF 2019.
 |[vault-door-1](https://github.com/xmehulx/picoCTF-2019/tree/master/Reverse%20Engineering/vault-door-1)         | Reverse Engineering | 100 |
 |[what's a net cat?](https://github.com/xmehulx/picoCTF-2019/tree/master/General%20Skills/what's%20a%20net%20cat%3F)    | General Skills      | 100 |
 |[where are the robots](https://github.com/xmehulx/picoCTF-2019/tree/master/Web%20Exploitation/where%20are%20the%20robots) | Web Exploitation    | 100 |
-|OverFlow 1           | Binary Exploitation | 150 |
-|So Meta              | Forensics           | 150 |
+|[OverFlow 1](https://github.com/xmehulx/picoCTF-2019/tree/master/Binary%20Exploitation/OverFlow%201)           | Binary Exploitation | 150 |
+|[So Meta](https://github.com/xmehulx/picoCTF-2019/tree/master/Forensics/So%20Meta)              | Forensics           | 150 |
 |What Lies Within     | Forensics           | 150 |
 |extensions           | Forensics           | 150 |
 |shark on wire 1      | Forensics           | 150 |
